@@ -477,6 +477,10 @@ footer .location {
 footer .legal {
   text-align: center;
 }
+footer .legal a {
+  color: #bfbab0;
+  text-decoration: none;
+}
 
 @media only screen and (min-width: 35rem) {
   /* NAVIGATION STUFF GOES HERE  */

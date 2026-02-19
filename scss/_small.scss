@@ -194,5 +194,9 @@ padding: .5rem;}
 
 .legal {
     text-align: center;
+    a{
+        color: $greyColor;
+        text-decoration: none;
+    }
 }
 }// end footer
